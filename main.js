@@ -6578,7 +6578,6 @@ Game.Launch=function()
 				str+='<div class="close menuClose" '+Game.clickStr+'="Game.ShowMenu();">x</div>';
 				//str+='<div style="position:absolute;top:8px;right:8px;cursor:pointer;font-size:16px;" '+Game.clickStr+'="Game.ShowMenu();">X</div>';
 			}
-			<title >Cheat Codes</title>
 			if (Game.onMenu=='prefs')
 			{
 				str+='<div class="section">'+loc("Options")+'</div>';
