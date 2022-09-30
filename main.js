@@ -1917,7 +1917,7 @@ Game.Launch=function()
 		Game.T=0;
 		Game.drawT=0;
 		Game.loopT=0;
-		Game.fps=30;
+		Game.fps=60;
 		
 		Game.season=Game.baseSeason;
 		
